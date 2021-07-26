@@ -1,4 +1,4 @@
-# uas-pemograman web
+# uas pemograman web
 # Danil Bahri Tanjung
 # 311910391
 # TI19B2
